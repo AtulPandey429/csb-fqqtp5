@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "https://atulpandey429.github.io/csb-fqqtp5/static/css/main.f7e73325.chunk.css",
+    "main.js": "https://atulpandey429.github.io/csb-fqqtp5/static/js/main.1f3bffe3.chunk.js",
+    "main.js.map": "https://atulpandey429.github.io/csb-fqqtp5/static/js/main.1f3bffe3.chunk.js.map",
+    "runtime-main.js": "https://atulpandey429.github.io/csb-fqqtp5/static/js/runtime-main.afab4797.js",
+    "runtime-main.js.map": "https://atulpandey429.github.io/csb-fqqtp5/static/js/runtime-main.afab4797.js.map",
+    "static/js/2.e417efee.chunk.js": "https://atulpandey429.github.io/csb-fqqtp5/static/js/2.e417efee.chunk.js",
+    "static/js/2.e417efee.chunk.js.map": "https://atulpandey429.github.io/csb-fqqtp5/static/js/2.e417efee.chunk.js.map",
+    "index.html": "https://atulpandey429.github.io/csb-fqqtp5/index.html",
+    "static/css/main.f7e73325.chunk.css.map": "https://atulpandey429.github.io/csb-fqqtp5/static/css/main.f7e73325.chunk.css.map",
+    "static/js/2.e417efee.chunk.js.LICENSE.txt": "https://atulpandey429.github.io/csb-fqqtp5/static/js/2.e417efee.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.afab4797.js",
+    "static/js/2.e417efee.chunk.js",
+    "static/css/main.f7e73325.chunk.css",
+    "static/js/main.1f3bffe3.chunk.js"
+  ]
+}
